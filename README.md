@@ -21,7 +21,7 @@ Nuestro equipo se esfuerza constantemente por ofrecer soluciones **inteligentes,
 
 ## 🚀 Sobre nuestros robots
 
-Actualmente trabajamos en el desarrollo y distribución de robots para **mini fútbol autónomo**, especialmente diseñados para competencias en ligas universitarias y ferias tecnológicas.  
+Actualmente trabajamos en el desarrollo y distribución de robots para **mini fútbol**, especialmente diseñados para competencias en ligas universitarias y ferias tecnológicas.  
 Nuestros sistemas están optimizados para:
 
 - ⚡ Velocidad de reacción y precisión en la toma de decisiones
