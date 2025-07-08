@@ -1,7 +1,7 @@
 # ⚙️ ¡Gracias por tu compra con Hc2 Ingeniería!
 
 Bienvenido al manual de usuario oficial de **Hc2 Ingeniería**.  
-Agradecemos tu confianza en nuestros productos y en nuestra pasión por la robótica de competencia. Aquí encontrarás todo lo necesario para comenzar a utilizar tu robot de **mini fútbol autónomo** de forma segura, eficiente y con el máximo rendimiento.
+Agradecemos tu confianza en nuestros productos y en nuestra pasión por la robótica de competencia. Aquí encontrarás todo lo necesario para comenzar a utilizar tu robot de **mini fútbol** de forma segura, eficiente y con el máximo rendimiento.
 
 ---
 
@@ -24,8 +24,6 @@ Nuestro equipo se esfuerza constantemente por ofrecer soluciones **inteligentes,
 Actualmente trabajamos en el desarrollo y distribución de robots para **mini fútbol**, especialmente diseñados para competencias en ligas universitarias y ferias tecnológicas.  
 Nuestros sistemas están optimizados para:
 
-- ⚡ Velocidad de reacción y precisión en la toma de decisiones
-- 🧭 Navegación autónoma dentro de un campo reglamentario
 - 🛡️ Robustez estructural para condiciones reales de competencia
 
 ---
